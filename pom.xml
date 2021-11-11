@@ -27,12 +27,20 @@
                 <version>7.3.0</version>
                 <scope>test</scope>
             </dependency>
+
             <dependency>
                 <groupId>com.codeborne</groupId>
                 <artifactId>selenide</artifactId>
                 <version>5.18.0</version>
                 <scope>compile</scope>
             </dependency>
+
+            <dependency>
+                <groupId>com.github.javafaker</groupId>
+                <artifactId>javafaker</artifactId>
+                <version>1.0.2</version>
+            </dependency>
+
         </dependencies>
 
 </project>
